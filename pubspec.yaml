@@ -1,0 +1,33 @@
+name: dear_diaryv2
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.21.0
+  firebase_auth: ^4.12.1
+  cloud_firestore: ^4.12.2
+  firebase_storage: ^11.4.1
+  firebase_ui_auth: ^1.9.1
+  image_picker: ^1.0.4
+  pdf: ^3.10.6
+  path_provider: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.0.4
+  analyzer: 6.2.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
