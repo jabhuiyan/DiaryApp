@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792786193766",
+    "project_id": "dear-diary-v2-4b929",
+    "storage_bucket": "dear-diary-v2-4b929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792786193766:android:15c6e862b5bee5ce400ca7",
+        "android_client_info": {
+          "package_name": "com.example.dear_diaryv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XysN_ybP9uNZT0SJ-DXfvHNlqbco-cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
